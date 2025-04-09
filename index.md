@@ -175,6 +175,7 @@ Je bent echt goed bezig! Je hebt nu de basis geleerd om door de computer te navi
 4.  Ga naar de map "teksten" en controleer of het bestand daar staat met het `ls` commando.
 5.  Ga terug naar de map "oefeningen" en verwijder het bestand "boodschappenlijst.txt". (Wees zeker dat je het juiste bestand verwijdert!)
 
-Je bent een snelle leerling! Je hebt nu de belangrijkste basiscommando's geleerd om met bestanden en mappen om te gaan in de Linux command line. Blijf oefenen, en je zult er steeds handiger in worden!
+Je bent een snelle leerling! Je hebt nu de belangrijkste basiscommando's geleerd om met bestanden en mappen om te 
+gaan in de Linux command line. Blijf oefenen, en je zult er steeds handiger in worden!
 
 {{< licentie rel="http://creativecommons.org/licenses/by-nc-sa/4.0/">}}
